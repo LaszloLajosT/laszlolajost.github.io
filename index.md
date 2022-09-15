@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
 
-Maybe say a some things about yourself.
+Hi there,
 
-Or maybe what you plan to blog about.
+I don't have anything to say right now. This blog is in progress and I can't wait to add more posts about my free time projects from the past and recent times.
