@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "This is my first blog post"
+description: "This is my first ever post as a test"
+date: 2022-09-16
+category: blog
+---
 
 
 ## This is my first blog post
