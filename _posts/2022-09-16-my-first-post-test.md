@@ -9,6 +9,7 @@ category: blog
 
 ## This is my first blog post
 
+A little changes for git and VS code....
 
 Hi there,
 
