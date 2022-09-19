@@ -9,8 +9,6 @@ category: blog
 
 ## This is my first blog post
 
-A little changes for git and VS code....
-
 Hi there,
 
 It is my first ever post. Let's see how it goes.:)
@@ -30,3 +28,4 @@ It is my first ever post. Let's see how it goes.:)
 
 
 Have a good day.
+:)
