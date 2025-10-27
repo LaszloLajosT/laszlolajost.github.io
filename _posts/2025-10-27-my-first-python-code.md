@@ -85,3 +85,34 @@ else: # marks>= 80
 
 print('The grade is', grade)
 ```
+
+
+* * *
+
+## Program 4.7 Outstanding mortgage
+
+```python
+# Generate the monthly outstanding mortgage
+
+# Input: anual interest rate, a floating-point percentage
+rate = 0.05
+
+# Input: monthly payment, a positive integer in a currency
+payment = 200
+
+# Input/ output: mortgage, a positive number, same currency
+mortgage = 1000
+
+# Output: month, a positive number, number of month
+month = 1
+
+print('Current outstanding mortgage:', mortgage)
+while  (mortgage > 0):
+    interest = mortgage * rate / 12
+    mortgage = mortgage + interest - payment
+    if mortgage <=0:
+        print('Mortgage is paid-off in', month, 'months')
+    else: 
+        print('Outstanding mortgage:', mortgage, 'after', month, 'month(s)')
+    month = month +1
+```
