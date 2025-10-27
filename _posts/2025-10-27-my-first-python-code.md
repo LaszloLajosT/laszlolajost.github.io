@@ -1,4 +1,4 @@
-## An example for documentation in python projects
+## Program 4.1 Brick volume
 
 ```python
 # Compute the volume of a brick, given its dimentions
@@ -24,4 +24,64 @@ volume = area * height
 print('The volume is', volume)
 
 
+```
+
+
+* * *
+
+## Program 4.3 Restaurant bill
+
+```python
+# Compute total bill for given party size
+
+# Input: the bill, in any currency, before any surcharges
+bill = 10
+
+# Input: the people, in the pary, a positive integer
+people = 4
+
+# Input: the service charge, a percentage
+charge = 0.1
+
+### Output: the total bill, in the same currency
+##if people > 6:
+##    total = bill + bill * charge
+##else:
+##    total = bill
+##
+##print('The total bill is', total)
+
+
+# Output: the total bill, in the same currency
+# Alternative
+if people <= 6:
+    total = bill
+else:
+    total = bill + bill * charge
+
+print('The total bill is', total)
+```
+
+
+* * *
+
+## Program 4.5  Grade system with multiple cases
+
+```
+# Print the grade, given the marks
+
+# Input: marks, an integer from 0 to 100
+marks = 52
+
+# Output: the grade, a string
+if marks < 40:
+    grade = 'fail'
+elif marks <= 60:
+    grade = 'pass'
+elif  marks < 80:
+    grade = 'merit'
+else: # marks>= 80
+    grade = 'distinction'
+
+print('The grade is', grade)
 ```
