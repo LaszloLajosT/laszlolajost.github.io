@@ -67,7 +67,7 @@ print('The total bill is', total)
 
 ## Program 4.5  Grade system with multiple cases
 
-```
+```python
 # Print the grade, given the marks
 
 # Input: marks, an integer from 0 to 100
