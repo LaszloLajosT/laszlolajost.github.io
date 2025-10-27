@@ -1,7 +1,7 @@
 ## Program 4.1 Brick volume
 
 ```python
-# Compute the volume of a brick, given its dimentions
+# Compute the volume of a brick, given its dimensions
 # Compute the base area from the width and length
 
 
