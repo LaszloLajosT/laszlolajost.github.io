@@ -1,7 +1,7 @@
 ## Program 4.1 Brick volume
 
 ```python
-# Compute the volume of a brick, given its dimentions
+# Compute the volume of a brick, given its dimensions
 # Compute the base area from the width and length
 
 
@@ -67,7 +67,7 @@ print('The total bill is', total)
 
 ## Program 4.5  Grade system with multiple cases
 
-```
+```python
 # Print the grade, given the marks
 
 # Input: marks, an integer from 0 to 100
